@@ -6,6 +6,8 @@ setInterval(() => {
       dateonly = datenow.toLocaleDateString();
       demo1.innerHTML ="Date:"+ dateonly;
       
+      signal = document.getElementById('signal');
+      
       
       demo1 = document.getElementById("demo2");
       var datenow = new Date();

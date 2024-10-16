@@ -10,5 +10,13 @@ hr{
       width: 40%;
       margin: 0;
 }
+#signal{
+      border: 8px solid red;
+      border-radius: 50%;
+      height: 1px;
+      width: 1px;
+      
+
+}
 
 
