@@ -1,0 +1,14 @@
+#topDate, #demo, #demo3{
+      display: flex;
+      font-size: 22px;
+      font-weight: 700;
+      font-family: Arial, Helvetica, sans-serif;
+
+}
+hr{
+      border: 1px dotted black;
+      width: 40%;
+      margin: 0;
+}
+
+
